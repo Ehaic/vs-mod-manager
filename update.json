@@ -1,7 +1,7 @@
 {
   "*": {
-    "version": "0.2.5",
-    "download_url": "https://raw.githubusercontent.com/Ehaic/vs-mod-manager/main/releases/vs-mod-manager-0.2.5.zip",
-    "sha256": "70b70c256df43ade8e2f68de7d4888c928eb12af841a3f1cbcd7554422029182"
+    "version": "0.2.6",
+    "download_url": "https://raw.githubusercontent.com/Ehaic/vs-mod-manager/main/releases/vs-mod-manager-0.2.6.zip",
+    "sha256": "300272b95beb3242445a543db0c5470994c276a039cd83f33f30262e9931ce0b"
   }
 }
